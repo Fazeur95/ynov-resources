@@ -1,2 +1,5 @@
-# ynov-resources
-This repository is resources for teaching at Ynov School
+# Projet Docker
+
+## Membres :
+- Marvin GOMES VITORINO
+- Faouizi MZEBLA
